@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I’m Ahmed Adel Hammad, a Flutter Mobile Developer.<br><br>👀 I’m interested in crafting efficient and visually appealing mobile applications using Flutter. 🌱 Currently, I'm immersing myself in learning about SDLC and clean architecture, along with delving into creating responsive UIs in Flutter. 💞️ I’m looking to collaborate on innovative mobile app projects where I can contribute my skills in Flutter development and problem-solving. 📫 You can reach me via LinkedIn https://www.linkedin.com/in/axah43/ . ⚡ Fun fact: Just like Cristiano Ronaldo said, dedication , hard work all the time , and belief.</p>
+<p align="left">👋 Hi, I’m Ahmed Adel Hammad, a Flutter Mobile Developer.<br><br>👀 I’m interested in crafting efficient and visually appealing mobile applications using Flutter.<br>🌱 Currently, I'm immersing myself in learning about SDLC and clean architecture, along with delving into creating responsive UIs in Flutter.<br>💞️ I’m looking to collaborate on innovative mobile app projects where I can contribute my skills in Flutter development and problem-solving. 📫 You can reach me via LinkedIn https://www.linkedin.com/in/axah43/ . <br>⚡ Fun fact: Just like Cristiano Ronaldo said, dedication , hard work all the time , and belief.</p>
 
 ###
 
@@ -35,10 +35,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/axah710/axah710/output/snake.svg" alt="Snake animation" />
 
 ###
 
