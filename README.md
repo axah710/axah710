@@ -43,3 +43,10 @@
 </div>
 
 ###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/axah710/axah710/output/snake.svg" alt="Snake animation" />
+
+###
