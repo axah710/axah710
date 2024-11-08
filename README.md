@@ -1,7 +1,7 @@
 <p align="left">
 👋 Hi, I’m Ahmed Adel Hammad, a Flutter Developer based in Cairo, Egypt.<br><br>
 👀 I’m passionate about creating user-focused, high-performance mobile applications with Flutter.<br>
-🌱 Currently, I’m studying Flutter Security Best Practices and Performance Profiling, while deepening my understanding of clean architecture and responsive UI design.<br>
+🌱 Currently, I’m studying Flutter Security Best Practices and Performance Profiling, while deepening my understanding of clean architecture and responsive UI development<br>
 💼 I’m open to collaborating on impactful mobile app projects where I can apply my skills in Flutter development, state management, and CI/CD.<br>
 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/axah43/">LinkedIn</a>.<br>
 ⚡ Fun fact: Just like Cristiano Ronaldo said, dedication, hard work all the time, and belief.
