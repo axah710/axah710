@@ -5,7 +5,7 @@
 💬 Ask me about state management, RESTful API integration, OWASP security, background services, deep linking, and agile workflows.<br>
 💼 In production, I’ve delivered solutions for enterprise & fintech platforms, e‑commerce & real estate marketplaces, LMSs, and logistics tools.<br>
 📫 Let’s connect: <a href="https://www.linkedin.com/in/axah43/">LinkedIn</a>.<br>
-⚡ Fun fact: “Dedication, hard work all the time, and belief,” my creed—just like Cristiano Ronaldo.
+⚡ Fun fact: “Dedication, hard work all the time, and belief,” my creed, just like Cristiano Ronaldo.
 </p>
 
 <div align="left">
