@@ -5,12 +5,11 @@
 
 🔭 Currently working on advanced Flutter solutions with clean architecture, performance optimization, and mobile security best practices.<br>
 🌱 Deep diving into performance profiling, security hardening (OWASP), background services, and responsive UI patterns.<br>
-👯 Mentoring 25+ developers in Flutter, Clean Code, state management (BLoC/Cubit), and software architecture.<br>
 💬 Ask me about Flutter, Dart, Clean Architecture, BLoC/Cubit, Firebase, RESTful APIs, CI/CD, mobile security, deep linking, and agile workflows.<br>
 💼 I’ve delivered production apps in enterprise systems, fintech, e-commerce, real estate, LMS, and logistics platforms.<br>
 📝 I write about software engineering on Medium & LinkedIn.<br>
-📫 Reach me: <strong>ahmed36085361@gmail.com</strong> | <strong>+201155506397</strong> | <a href="https://www.linkedin.com/in/axah43/">LinkedIn</a><br>
-⚡ Fun fact: I reduced production bugs by 40% through systematic code reviews — and my creed is “Dedication, hard work all the time, and belief,” just like Cristiano Ronaldo.<br>
+📫 Reach me: <strong>ahmed36085361@gmail.com</strong> | <a href="https://www.linkedin.com/in/axah43/">LinkedIn</a><br>
+⚡ Fun fact: My creed is “Dedication, hard work all the time, and belief,” just like Cristiano Ronaldo.<br>
 </p>
 
 <div align="left">
