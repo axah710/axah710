@@ -1,11 +1,16 @@
 <p align="left">
-👋 Hi, I’m <strong>Ahmed Adel Hammad Mohammed</strong>, a Flutter Developer based in Cairo, Egypt.<br><br>
-👀 I build user‑focused, high‑performance mobile apps using Flutter, clean architecture, Bloc/Cubit, and CI/CD.<br>
-🌱 Currently mastering mobile security best practices, performance profiling, and advanced responsive UI patterns.<br>
-💬 Ask me about state management, RESTful API integration, OWASP security, background services, deep linking, and agile workflows.<br>
-💼 In production, I’ve delivered solutions for enterprise & fintech platforms, e‑commerce & real estate marketplaces, LMSs, and logistics tools.<br>
-📫 Let’s connect: <a href="https://www.linkedin.com/in/axah43/">LinkedIn</a>.<br>
-⚡ Fun fact: “Dedication, hard work all the time, and belief,” my creed, just like Cristiano Ronaldo.
+🚀 <strong>About Me</strong><br><br>
+
+👋 Hi, I’m <strong>Ahmed Adel Hammad Mohammed</strong>, a Senior Flutter Developer & Mobile Engineer based in Cairo, Egypt. I build scalable, secure, and high-performance mobile applications with clean architecture and enterprise-grade standards.<br><br>
+
+🔭 Currently working on advanced Flutter solutions with clean architecture, performance optimization, and mobile security best practices.<br>
+🌱 Deep diving into performance profiling, security hardening (OWASP), background services, and responsive UI patterns.<br>
+👯 Mentoring 25+ developers in Flutter, Clean Code, state management (BLoC/Cubit), and software architecture.<br>
+💬 Ask me about Flutter, Dart, Clean Architecture, BLoC/Cubit, Firebase, RESTful APIs, CI/CD, mobile security, deep linking, and agile workflows.<br>
+💼 I’ve delivered production apps in enterprise systems, fintech, e-commerce, real estate, LMS, and logistics platforms.<br>
+📝 I write about software engineering on Medium & LinkedIn.<br>
+📫 Reach me: <strong>ahmed36085361@gmail.com</strong> | <strong>+201155506397</strong> | <a href="https://www.linkedin.com/in/axah43/">LinkedIn</a><br>
+⚡ Fun fact: I reduced production bugs by 40% through systematic code reviews — and my creed is “Dedication, hard work all the time, and belief,” just like Cristiano Ronaldo.<br>
 </p>
 
 <div align="left">
