@@ -1,7 +1,7 @@
 <p align="left">
 🚀 <strong>About Me</strong><br><br>
 
-👋 Hi, I’m <strong>Ahmed Adel Hammad Mohammed</strong>, a Senior Flutter Developer & Mobile Engineer based in Cairo, Egypt. I build scalable, secure, and high-performance mobile applications with clean architecture and enterprise-grade standards.<br><br>
+👋 Hi, I’m <strong>Ahmed Adel Hammad Mohammed</strong>, a Flutter Developer & Mobile Engineer based in Cairo, Egypt. I build scalable, secure, and high-performance mobile applications with clean architecture and enterprise-grade standards.<br><br>
 
 🔭 Currently working on advanced Flutter solutions with clean architecture, performance optimization, and mobile security best practices.<br>
 🌱 Deep diving into performance profiling, security hardening (OWASP), background services, and responsive UI patterns.<br>
